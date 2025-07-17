@@ -1,3 +1,5 @@
+<img src="banner.png" alt="André Teles Banner" style="width:100%; border-radius:10px;">
+
 <h1 align="center">Olá, sou o André Teles 👋</h1>
 
 <p align="center">
