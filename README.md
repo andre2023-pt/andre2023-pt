@@ -1,4 +1,4 @@
-<img src="Ban.png" alt="André Teles Banner" style="width:100%; border-radius:10px;">
+<img src="Ban1.png" alt="André Teles Banner" style="width:100%; border-radius:10px;">
 
 <h1 align="center">Olá, sou o André Teles 👋</h1>
 
