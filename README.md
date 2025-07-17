@@ -48,9 +48,8 @@ Atualmente a frequentar formações avançadas em **Suporte e Segurança de Rede
 
 ### 📂 Repositórios em Destaque
 
-🔹 [`Cisco_Labs_Config`](https://github.com/andre2023-pt/Cisco_Labs_Config)  
-🔹 [`VOIP_Setups`](https://github.com/andre2023-pt/VOIP_Setups)  
-🔹 [`Cybersecurity_Notes`](https://github.com/andre2023-pt/Cybersecurity_Notes)
+🔹 [`CCNA`](https://github.com/andre2023-pt/Cisco_Labs_Config)  
+🔹 [`Cybersecurity`](https://github.com/andre2023-pt/Cybersecurity_Notes)
 
 ---
 
