@@ -8,7 +8,7 @@ Técnico de Redes e Telecomunicações | Cisco | VOIP | Cibersegurança | Fortin
 
 ### 📌 Sobre mim
 
-Sou Técnico de Redes e Telecomunicações com mais de 14 anos de experiência em ambientes empresariais críticos. Trabalho com soluções Cisco, Huawei, Fortinet, VOIP, redes móveis/fixas, servidores Windows e tenho um grande foco em **cibersegurança ofensiva e redes IP seguras**.
+Sou Técnico de Redes e Telecomunicações com mais de 18 anos de experiência em ambientes empresariais críticos. Trabalho com soluções Cisco, Huawei, Fortinet, VOIP, redes móveis/fixas, servidores Windows e tenho um grande foco em **cibersegurança ofensiva e redes IP seguras**.
 
 Atualmente a frequentar formações avançadas em **Suporte e Segurança de Rede** (Cisco) e **Fortinet Certified Fundamentals**.
 
