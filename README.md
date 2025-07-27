@@ -16,9 +16,6 @@ Atualmente a frequentar formações avançadas em **Suporte e Segurança de Rede
 
 ---
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/a017a01d-c3ef-44ac-94f6-d125fc54856a" />
-
-
 ### 🎓 Formações e Certificações
 
 - 📘 **CCNA - Cisco Routing & Switching**  
