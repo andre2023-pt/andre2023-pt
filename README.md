@@ -45,6 +45,7 @@ Atualmente a frequentar formações avançadas em **Suporte e Segurança de Rede
 | Instalações | Redes estruturadas, Wi-Fi empresarial, ITED/ITUR |
 
 ---
+<img src="https://raw.githubusercontent.com/andre2023-pt/assets/banner.gif" alt="banner" style="width:100%;">
 
 ### 📂 Repositórios em Destaque
 
