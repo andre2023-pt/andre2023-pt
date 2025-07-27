@@ -62,3 +62,14 @@ Atualmente a frequentar formações avançadas em **Suporte e Segurança de Rede
 ---
 
 🛠️ *Sempre a aprender. Sempre a construir. Sempre a partilhar.*
+
+## 🕹️ Pac‑Man no meu Gráfico de Contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andre2023-pt/andre2023-pt/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andre2023-pt/andre2023-pt/output/pacman-contribution-graph.svg">
+  <img alt="Gráfico de contribuições estilo Pac‑Man" src="https://raw.githubusercontent.com/andre2023-pt/andre2023-pt/output/pacman-contribution-graph.svg">
+</picture>
+
+<sub>🎮 Gerado com [pacman‑contribution‑graph](https://abozanona.github.io/pacman-contribution-graph/)</sub>
+
