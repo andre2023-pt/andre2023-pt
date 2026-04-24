@@ -28,8 +28,8 @@ Atualmente a frequentar formações avançadas em **Suporte e Segurança de Rede
 - 📘 **ITED / ITUR - Redes físicas e instalação**
 
 > 📚 Em curso:
-> - Suporte e Segurança de Rede – Cisco (2025)  
-> - Fortinet Certified Fundamentals – FCF (2025)
+> - Suporte e Segurança de Rede – Cisco (2026)  
+> - Fortinet Certified Fundamentals – FCF (2026)
 
 ---
 
